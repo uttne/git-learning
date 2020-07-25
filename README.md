@@ -1,1 +1,1 @@
-# git-learning
+# git の勉強のためのレポジトリ
